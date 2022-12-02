@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"net"
 
-	"github.com/devfullcycle/14-gRPC/internal/database"
-	"github.com/devfullcycle/14-gRPC/internal/pb"
-	"github.com/devfullcycle/14-gRPC/internal/service"
+	"github.com/marciafc/14-gRPC/internal/database"
+	"github.com/marciafc/14-gRPC/internal/pb"
+	"github.com/marciafc/14-gRPC/internal/service"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
