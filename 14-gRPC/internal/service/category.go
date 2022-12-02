@@ -4,8 +4,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/devfullcycle/14-gRPC/internal/database"
-	"github.com/devfullcycle/14-gRPC/internal/pb"
+	"github.com/marciafc/14-gRPC/internal/database"
+	"github.com/marciafc/14-gRPC/internal/pb"
 )
 
 type CategoryService struct {
